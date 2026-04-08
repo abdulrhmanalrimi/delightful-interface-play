@@ -1,0 +1,39 @@
+{
+  "background_color": "#ffffff",
+  "description": "المهندس/ وائل العلماني  المهندس/ عبدالرحمن الريمي",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "FBD",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FBD",
+  "start_url": "https://delightful-interface-play14.lovable.app/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/c03634d8-e0cb-43fa-afd1-3a473693c763",
+      "type": "image/png",
+      "sizes": "1344x768",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1344,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://delightful-interface-play14.lovable.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
