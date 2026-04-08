@@ -12,8 +12,23 @@ export default {
         "2xl": "1400px",
       },
     },
+    fontFamily: {
+      rajdhani: ['Rajdhani', 'sans-serif'],
+      mono: ['Share Tech Mono', 'monospace'],
+    },
     extend: {
       colors: {
+        hmi: {
+          green: "hsl(var(--hmi-green))",
+          "green-glow": "hsl(var(--hmi-green-glow))",
+          amber: "hsl(var(--hmi-amber))",
+          red: "hsl(var(--hmi-red))",
+          blue: "hsl(var(--hmi-blue))",
+          header: "hsl(var(--hmi-header))",
+          panel: "hsl(var(--hmi-panel))",
+          btn: "hsl(var(--hmi-btn))",
+          "btn-active": "hsl(var(--hmi-btn-active))",
+        },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
