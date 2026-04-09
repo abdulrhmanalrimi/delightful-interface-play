@@ -2,26 +2,27 @@
   "name": "FBD - Fluid Bed Dryer HMI",
   "short_name": "FBD",
   "description": "Fluid Bed Dryer 120 Kg GMP Model - HMI Control Panel",
-  "start_url": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#141a26",
   "theme_color": "#1a9960",
   "orientation": "any",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
